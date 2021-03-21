@@ -1,5 +1,5 @@
 # FIGURE OUTPUT 
-figure.figsize:       6.2, 4.3
+figure.figsize:       5, 3.5
 #figure.autolayout:   True
 #figure.constrained_layout.use : True
 #figure.titlesize:     16.5  # fontsize of the axes title
